@@ -1,0 +1,2 @@
+# Siatka i kolizja
+ 
